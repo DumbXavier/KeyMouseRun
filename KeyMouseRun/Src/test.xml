@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Info>
+	<SLEEP>10</SLEEP>
+	
+	<vb_KeyNumpad1>0</vb_KeyNumpad1>
+	<vb_KeyNumpad1>2</vb_KeyNumpad1>
+	<vb_KeySpace>0</vb_KeySpace>
+	<vb_KeySpace>2</vb_KeySpace>
+	<vb_KeyNumpad2>0</vb_KeyNumpad2>
+	<vb_KeyNumpad2>2</vb_KeyNumpad2>
+	<vb_KeySpace>0</vb_KeySpace>
+	<vb_KeySpace>2</vb_KeySpace>
+	<vb_KeyNumpad4>0</vb_KeyNumpad4>
+	<vb_KeyNumpad4>2</vb_KeyNumpad4>
+	<vb_KeySpace>0</vb_KeySpace>
+	<vb_KeySpace>2</vb_KeySpace>
+	<vb_KeyNumpad8>0</vb_KeyNumpad8>
+	<vb_KeyNumpad8>2</vb_KeyNumpad8>
+	<vb_KeySpace>0</vb_KeySpace>
+	<vb_KeySpace>2</vb_KeySpace>
+	<vb_KeyNumpad1>0</vb_KeyNumpad1>
+	<vb_KeyNumpad1>2</vb_KeyNumpad1>
+	<vb_KeyNumpad6>0</vb_KeyNumpad6>
+	<vb_KeyNumpad6>2</vb_KeyNumpad6>
+	
+	
+	
+</Info>

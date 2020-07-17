@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<Info>
+	<MOUSESETX>350</MOUSESETX>
+	<SLEEP>1</SLEEP>
+	<MOUSESETY>500</MOUSESETY>
+	<SLEEP>1</SLEEP>
+	<MOUSEMOVE>0</MOUSEMOVE>
+	<SLEEP>1</SLEEP>
+	<MOUSEEVENTF_LEFTDOWN>0</MOUSEEVENTF_LEFTDOWN>
+	<SLEEP>1</SLEEP>
+	<MOUSEEVENTF_LEFTUP>0</MOUSEEVENTF_LEFTUP>
+	<SLEEP>1</SLEEP>
+	
+	
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	<vb_KeyPageDown>0</vb_KeyPageDown>
+	<vb_KeyPageDown>2</vb_KeyPageDown>
+	
+	
+	
+</Info>

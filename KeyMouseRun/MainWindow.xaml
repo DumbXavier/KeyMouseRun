@@ -1,0 +1,23 @@
+﻿<Window x:Class="KeyMouseRun.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeyMouseRun"
+        mc:Ignorable="d"
+        Topmost="True"
+        Title="" Height="150" Width="180">
+    <Grid>
+        <Rectangle x:Name="BackRect"
+                   Fill="White"
+                   MouseMove="BackRect_MouseMove"/>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="SelectBtn" Content="Select" Margin="0,10,0,0"
+                    Click="SelectBtn_Click"
+                    Height="30" Width="120"/>
+            <Button x:Name="RunBtn" Content="Run" Margin="0,10,0,0"
+                    Click="RunBtn_Click"
+                    Height="30" Width="120"/>
+        </StackPanel>
+    </Grid>
+</Window>
